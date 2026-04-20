@@ -149,5 +149,6 @@ No third-party packages required. Python 3.10+ recommended.
 
 ## Project Background
 
-Research source: `/home/dgai/.openclaw/workspace-greg/FREEFLIGHT_RESEARCH.md`  
-Built as part of the OpenClaw freeflight-tools initiative.
+freeflight-tools is an open-source collection of Python utilities for free-flight competitors — paraglider and hang-glider pilots who navigate cross-country routes using thermals and weather judgment. The tools cover the full competition workflow: pre-flight planning (weather, airspace), in-flight data capture (GPS tracks), post-flight analysis (thermals, performance), and event management (scoring, leaderboards).
+
+Built with AI assistance as part of an open-source initiative to give free-flight competitors practical, dependency-free tools they can run anywhere Python is available.
